@@ -1,0 +1,11 @@
+12345#William Gallo#Smith#knee#12000#
+45671#Mary Hilling#Jones#knee#1300.99#
+98761#Peter Green#Atkins#hip#7819.99#
+88881#Gregory Allen#Jones#heart#12989.99#
+77771#Eric Richards#Jones#heart#10989#
+28923#Gina Carbon#Atkins#knee#6789.55#
+44444#Julia Landon#Smith#hip#4500#
+22222#Keri Fisher#Jones#hip#4999#
+92816#Andrew Johnson#Smith#heart#14989.99#
+10002#Philip Bosley#Jones#knee#6189.77#
+98885#Thomas Brown#Atkins#knee#5987.99#
